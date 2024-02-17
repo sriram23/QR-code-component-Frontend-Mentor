@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+    margin: unset;
+}
+.main-container {
+    max-width: 18rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background: hsl(0, 0%, 100%);
+}
+.main-container > .qr-image {
+    width: 100%;
+}
+.main-container > .qr-image > img {
+    border-radius: 1rem;
+    width: 100%;
+}
+.main-container > .text-container {
+    padding: 1rem;
+    text-align: center;
+}
+
+.main-container > .text-container > .title {
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.main-container > .text-container > .sub-title {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
