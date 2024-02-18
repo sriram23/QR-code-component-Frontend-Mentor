@@ -17,10 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 #### Desktop View
-<img width="960" alt="image" src="https://github.com/sriram23/QR-code-component-Frontend-Mentor/assets/18396996/fd8cadc8-a294-4e5d-9e02-7983a87f0278">
+<img width="959" alt="image" src="https://github.com/sriram23/QR-code-component-Frontend-Mentor/assets/18396996/7bb38471-7a5c-46e9-a91d-be6579f515fd">
 
 #### Mobile View
-<img width="187" alt="image" src="https://github.com/sriram23/QR-code-component-Frontend-Mentor/assets/18396996/7dd524f7-075e-45e7-b8be-c141dcaef0ff">
+![qr-code-component](https://github.com/sriram23/QR-code-component-Frontend-Mentor/assets/18396996/1021cc42-a7ab-4064-a08e-19e815191fea)
+
 
 ### Links
 
