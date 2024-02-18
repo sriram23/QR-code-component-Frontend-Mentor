@@ -1,0 +1,66 @@
+/** Modern CSS reset  */
+
+/* Box-sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Margins and padding */
+body {
+  margin: 0; /* Remove default body margin */
+  padding: 0; /* Remove default body padding */
+}
+
+/* Typography */
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: 1rem; /* Base font size */
+  -webkit-font-smoothing: antialiased; /* Antialiasing for smoother text */
+}
+
+/* Form elements */
+input,
+button,
+textarea,
+select {
+  font: inherit; /* Inherit font properties from body */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  border: none; /* Remove default border */
+  background: none; /* Remove default background */
+}
+
+/* Images */
+img {
+  display: block; /* Ensures inline images use full width */
+  max-width: 100%; /* Constrain image width while maintaining aspect ratio */
+}
+
+/* Lists */
+ul,
+ol {
+  list-style: none; /* Remove default list styling */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+}
+
+/* Links */
+a {
+  color: inherit; /* Inherit text color from body */
+}
+
+/* Accessibility */
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word; /* Allow text to wrap within elements */
+}
+
+/* Additional adjustments (optional) */
+/* You can add more specific resets here, targeting elements and properties as needed */
